@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#test
 DEFCONFIG_FILE=$1
 
 if [ -z "$DEFCONFIG_FILE" ]; then
